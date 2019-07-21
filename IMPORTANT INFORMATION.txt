@@ -15,7 +15,7 @@ José Luis Mendoza and Varenka Rico share common code since both have the same f
 - 2018 Top 30 Crime selection code
 - Merging Crime Tables with Demographic Data
 
-In JLML Branch you will find:
+In José Luis's Branch (JLML) you will find:
 - Historical information analysis (trends)
 - Historical information graphs
 
@@ -25,13 +25,17 @@ In Varenka Branch you will find:
 - Graphs for Violent/Non Violent and Personal/Material crimes
 - Scatter plots for Crimes Vs Demographic Data
 
-In Benjamin Branch you will find:
+In Benjamin's Branch (BTB) you will find:
 - Budget data clean code
 - Merging Crime Tables with Budget Data
 - Plots for Budget Vs Crime Data
 - Correlation calculations
 
-In Hugo Branch you will find:
+In Hugo's Branch (HBL_ok) you will find:
 - Demographic data cleaning code
 - Merging Demographic Data from different sources
 - Graphs on Demographic Data
+
+Datos_budget and Hugo Branches do not have information and were use for testing.
+
+In the Master Branch you will find the Presentaion.
